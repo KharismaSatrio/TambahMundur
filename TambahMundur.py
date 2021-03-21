@@ -1,6 +1,6 @@
 #Soal_1
 a=input('Masukkan angka 1:')
-b=input('Masukkan angka 1:')
+b=input('Masukkan angka 2:')
 
 def tambahmundur(a,b): 
     aaa = int(a[::-1]) #string akan dibalik kemudian baru dijadikan int dan di assign ke variabel baru
